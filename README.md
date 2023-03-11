@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DanielPosR
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js, React, Express
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hola soy Daniel Posadas Rangel
 
-<!---
-DanielPosR/DanielPosR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✌️
+
+
+
+Estoy en proceso de convertirme en desarrollador Jr. Soy de México, actualmente estudio la Ingenieria en Sistemas computacionales y a la par de mi carrera estudio programación y sigo perfeccionando y completando mis conocimientos en Java Script, PHP y React.
+
+
